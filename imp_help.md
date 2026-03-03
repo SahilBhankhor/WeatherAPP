@@ -29,3 +29,11 @@
 # link ntag for Flask(python) =>
 # <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css')}}">
 
+
+# build command
+# pip install -U pip && pip install -r requirements.txt
+
+# start command 
+# python3 server.py
+
+PYTHON_VERSION = 3.14.3
